@@ -1,5 +1,3 @@
 # dataeng_bt
-Bootcamp - Engenharia de Dados
+Bootcamp - Engenharia de Dados [Banco Carrefour]
 
-Início em 07/21
-Previsão de Término 08/21
