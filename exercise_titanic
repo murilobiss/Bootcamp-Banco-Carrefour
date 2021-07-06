@@ -40,4 +40,4 @@ classificacao = rndForest.predict(dados.drop('target', axis =1))
 
 dados['probabilidade'] = probabilidade
 dados['classificacao'] = classificacao
-dados
+dados 
